@@ -23,16 +23,16 @@
       "name": "Braydon Fuller",
       "email": "braydon@bitpay.com"
     },
-	{
+    {
       "name": "Fedda BootStrap",
       "email": "unknown@gmail.com"
     }
   ],
   "keywords": [
     "bitcoin",
-	"stronghands",
+    "stronghands",
     "shmn",
-	"rpc"
+    "rpc"
   ],
   "repository": {
     "type": "git",
